@@ -45,9 +45,7 @@ img{
 
 h1 { 
     font-size: 2rem;
-    color: rgb(241, 90, 36);
-    -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: #000;
+    color: black;
     font-family: 'Fredoka One', cursive;
     text-transform: uppercase;
 }
